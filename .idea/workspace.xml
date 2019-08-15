@@ -35,14 +35,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="815" />
-          <entry key="html" value="4192" />
+          <entry key="html" value="4905" />
           <entry key="js" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="815" />
-          <entry key="HTML" value="4192" />
+          <entry key="HTML" value="4905" />
           <entry key="JavaScript" value="53" />
         </counts>
       </usages-collector>
@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="594" column="52" selection-start-line="594" selection-start-column="52" selection-end-line="594" selection-end-column="52" />
+            <state relative-caret-position="828">
+              <caret line="652" column="129" selection-start-line="652" selection-start-column="129" selection-end-line="652" selection-end-column="129" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#7992#7999#1" expanded="true" />
@@ -180,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565803195129</updated>
-      <workItem from="1565803197069" duration="10617000" />
+      <workItem from="1565803197069" duration="11721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10617000" />
+    <option name="totallyTimeSpent" value="11721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -235,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="594" column="52" selection-start-line="594" selection-start-column="52" selection-end-line="594" selection-end-column="52" />
+        <state relative-caret-position="828">
+          <caret line="652" column="129" selection-start-line="652" selection-start-column="129" selection-end-line="652" selection-end-column="129" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="e#7992#7999#1" expanded="true" />

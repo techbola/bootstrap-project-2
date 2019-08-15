@@ -99,6 +99,11 @@ body {
 }
 /*End of Cards*/
 
+/*Tasks*/
+.task-border{
+    border-left: 3px solid #f66436;
+}
+/*End of Tasks*/
 
 
 
